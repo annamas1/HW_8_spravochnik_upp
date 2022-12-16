@@ -36,3 +36,8 @@
 [16.12.2022 12:06:16 ] [INFO] [user_interface] [ls_menu: 50] => User entered: {number}
 [16.12.2022 12:06:23 ] [INFO] [user_interface] [ls_menu: 52] => User entered: {email}
 [16.12.2022 12:06:27 ] [INFO] [user_interface] [ls_menu: 22] => The user has selected item number 1
+[16.12.2022 12:19:22 ] [INFO] [main] [<module>: 8] => Start
+[16.12.2022 12:19:26 ] [INFO] [user_interface] [ls_menu: 22] => The user has selected item number 1
+[16.12.2022 12:20:47 ] [INFO] [user_interface] [ls_menu: 26] => The user has selected item number 2
+[16.12.2022 12:20:53 ] [INFO] [user_interface] [ls_menu: 28] => User entered: {search}
+[16.12.2022 12:21:35 ] [INFO] [user_interface] [ls_menu: 141] => End
